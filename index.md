@@ -1,7 +1,7 @@
 ---
 title: 챗봇 기본 상식
 keywords: 챗봇 만들기, 챗봇이란? 챗봇은 어떻게 만드나요?
-tags: [getting_started]
+tags: [basic]
 sidebar: chatbot_doc_sidebar
 permalink: index.html
 summary: 챗봇 기본 개념
