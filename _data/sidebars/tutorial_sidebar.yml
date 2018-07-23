@@ -15,9 +15,9 @@ entries:
     # - title: Tutorial 모음
     #   url: /tutorials_archive.html
     #   output: web
-    - title: 0. 튜토리얼 시작하기
-      url: /samplebot.html
-      output: web
+    #- title: 0. 튜토리얼 시작하기
+    #  url: /samplebot.html
+    #  output: web
     - title: 1. Intent 생성하기
       url: /basic_create_intent.html
       output: web
