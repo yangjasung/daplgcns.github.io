@@ -1,6 +1,6 @@
 ---
 title: Slack
-tags: [Slack,channel,messenger]
+tags: [channel]
 keywords: Basic Conversation
 summary: 몇가지 단계를 거치면 Slack Messenger에 연결할 수 있습니다.
 sidebar: danbee_doc_sidebar

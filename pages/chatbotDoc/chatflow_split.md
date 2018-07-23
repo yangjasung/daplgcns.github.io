@@ -1,6 +1,6 @@
 ---
 title: Split 노드
-tags: [chatflow]
+tags: [chatflow, basic]
 keywords: Basic Conversation
 summary: Split 노드에 대한 이해와 설정하는 방법을 설명합니다.
 sidebar: chatbot_doc_sidebar

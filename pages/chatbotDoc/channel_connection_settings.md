@@ -1,6 +1,6 @@
 ---
 title: 챗봇 채널 연계 설정
-tags: [facebook,messenger,kakaotalk,line,telegram,channel]
+tags: [channel, basic]
 keywords: Basic Conversation
 summary: 원하는 채팅창, 메신저 플랫폼과 연결하는 방법을 소개합니다.
 sidebar: danbee_doc_sidebar

@@ -1,6 +1,6 @@
 ---
 title: 엔티티 관리
-tags: [entity, nlu]
+tags: [basic, nlu]
 keywords: Basic Conversation
 summary: Entity를 통하여 입력 문장에서 필요한 정보를 뽑아낼 수 있습니다.
 sidebar: chatbot_doc_sidebar

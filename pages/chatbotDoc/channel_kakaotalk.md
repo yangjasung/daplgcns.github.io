@@ -1,6 +1,6 @@
 ---
 title: 카카오톡
-tags: [kakaotalk,kakao,channel,messenger]
+tags: [channel]
 keywords: Basic Conversation
 summary: 간단한 설정으로 카카오톡에 연결할 수 있습니다.
 sidebar: danbee_doc_sidebar

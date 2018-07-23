@@ -1,6 +1,6 @@
 ---
 title: 간단한 챗봇 만들어보기
-tags: [create_chatbot]
+tags: [basic]
 keywords: 챗봇 생성, 챗봇 만들기
 summary: 대화 주체의 단위인 챗봇을 생성하는 법을 알아보겠습니다.
 sidebar: chatbot_doc_sidebar

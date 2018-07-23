@@ -1,6 +1,6 @@
 ---
 title: 대화 이력 관리
-tags: [log, nlu, chatflow]
+tags: [log, nlu, chatflow, basic]
 keywords: Basic Conversation
 summary: 
 sidebar: chatbot_doc_sidebar
