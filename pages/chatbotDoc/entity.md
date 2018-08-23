@@ -126,12 +126,17 @@ Entity 등록/수정에는 다음과 같은 제약사항이 존재합니다.
 
 {% include image.html file="entity/Entity_user_define04_userdic02.png" max-width="900" caption="사용자사전 불러오기 - 결과" %}
 
-### sub-dailog 예문등록하기
-편집중
-
+### sub-dialog 사용
+sub-dialog는 Reference 분석을 통해 entry를 판단하지 못할 경우 예측가능한 예문형태를 미리 등록하여 비슷한 문장 혹은 단어가 들어왔을때 entry를 인식할 수 있게하는 기능입니다.
+#### sub-dialog 사용하기
 {% include image.html file="entity/Entity_user_define05_sub_dialog01.png" max-width="900" caption="entity편집화면 예문toggle" %}
-
+위 그림의 예문 on/off 토글기능으로 sub-dialog 사용을 제어할 수 있습니다. 예문 on 상태가 되면 각 entry의 예문을 등록할 수 있는 예문 버튼이 활성화 되고 off 일땐 비활성화 됩니다.
+#### sub-dialog 예문등록하기
 {% include image.html file="entity/Entity_user_define05_sub_dialog02.png" max-width="900" caption="entity예문편집" %}
+사용자 입력이 예상되는 예문을 등록합니다.
+#### sub-dialog 활용예시
+{% include image.html file="entity/Entity_user_define05_sub_dialog03.png" max-width="900" caption="sub-dialog동작 예시" %}
+위 그림의 entry 의 reference와 예문에 "벌건색" 이라는 단어가 등록되어 있지 않아도 예문의 문장을 분석하여 벌건색을 입력하면 빨강으로 인식하게 됩니다.
 
 
 ## 엔티티(Entity) 업로드/다운로드
