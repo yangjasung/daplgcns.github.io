@@ -129,6 +129,11 @@ Entity 등록/수정에는 다음과 같은 제약사항이 존재합니다.
 ### sub-dailog 예문등록하기
 편집중
 
+{% include image.html file="entity/Entity_user_define05_sub_dialog01.png" max-width="900" caption="entity편집화면 예문toggle" %}
+
+{% include image.html file="entity/Entity_user_define05_sub_dialog02.png" max-width="900" caption="entity예문편집" %}
+
+
 ## 엔티티(Entity) 업로드/다운로드
 
 편의 기능의 일종으로 사용자정의Entity 업로드/다운로드 기능을 제공하고 있습니다. 해당 기능은 CSV파일로 지원됩니다.
